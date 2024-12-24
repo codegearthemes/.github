@@ -7,6 +7,6 @@
   <h3 align="center">Codegear Themes</h3>
 
   <p align="center">
-    <a href="https://codegearthemes.com"><strong>Learn more ></strong></a>
+    <a href="https://codegearthemes.com" style="border: 1px solid #000; padding: 12px 18px;"><strong>Learn more ></strong></a>
   </p>
 </p>
